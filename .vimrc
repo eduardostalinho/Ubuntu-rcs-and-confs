@@ -32,6 +32,9 @@ if has("autocmd")
 endif
 
 set tabstop=4
+set shiftwidth=4
+set expandtab
+set number
 " Uncomment the following to have Vim load indentation rules and plugins
 " according to the detected filetype.
 if has("autocmd")
